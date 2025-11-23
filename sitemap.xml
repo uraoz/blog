@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uraot.github.io/blog/categories/</loc>
-    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
-  </url><url>
-    <loc>https://uraot.github.io/blog/categories/life/</loc>
-    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
-  </url><url>
     <loc>https://uraot.github.io/blog/life/</loc>
     <lastmod>2025-11-24T01:28:00+09:00</lastmod>
   </url><url>
@@ -30,6 +24,8 @@
     <lastmod>2025-11-24T01:28:00+09:00</lastmod>
   </url><url>
     <loc>https://uraot.github.io/blog/about/</loc>
+  </url><url>
+    <loc>https://uraot.github.io/blog/categories/</loc>
   </url><url>
     <loc>https://uraot.github.io/blog/tech/</loc>
   </url>
