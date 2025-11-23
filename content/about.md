@@ -11,8 +11,9 @@ url: "/about/"
 
 ### Interests
 - Programming
-- Science
+- Drawing
 - Engineering
+- Gaming
 
 ### Contact
 - GitHub: [uraoz](https://github.com/uraoz)
