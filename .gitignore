@@ -1,0 +1,25 @@
+# Hugo default output
+/public
+/resources
+/_resources
+
+# Hugo configuration
+hugo_stats.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependency directories
+node_modules/
+
+# Documents
+README.md
