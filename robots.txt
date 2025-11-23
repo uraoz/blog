@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://uraot.github.io/blog/sitemap.xml
+Sitemap: https://uraoz.github.io/blog/sitemap.xml
