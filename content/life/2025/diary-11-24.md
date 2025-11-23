@@ -3,7 +3,7 @@ title: "キッチン2畳の食卓革命、あるいは冷凍牛めしへの降�
 date: 2025-11-24T01:28:00+09:00
 draft: false
 tags: ["一人暮らし", "大学生活", "食事"]
-categories: ["life"]
+categories: []
 showtoc: true
 tocopen: false
 ---
