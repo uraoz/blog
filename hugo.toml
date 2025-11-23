@@ -1,6 +1,6 @@
 baseURL = 'https://uraot.github.io/blog/'
 languageCode = 'ja'
-title = 'My Tech & Life Blog'
+title = '閑話'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -14,7 +14,7 @@ buildExpired = false
 
 [params]
   env = 'production'
-  title = 'My Tech & Life Blog'
+  title = '閑話'
   description = "理工系大学生の技術メモと日常の記録"
   keywords = [ "Blog", "Tech", "Life", "Engineering" ]
   author = "Me"
@@ -50,8 +50,8 @@ buildExpired = false
 
   [params.profileMode]
     enabled = true
-    title = "My Tech & Life Blog"
-    subtitle = "理工系大学生の雑記帳"
+    title = "閑話"
+    subtitle = "雑記帳"
     imageUrl = ""
     imageWidth = 120
     imageHeight = 120
@@ -60,7 +60,7 @@ buildExpired = false
       { name = "Tech", url = "tech" },
       { name = "Life", url = "life" },
       { name = "About", url = "about" },
-      { name = "GitHub", url = "https://github.com/uraot" },
+      { name = "GitHub", url = "https://github.com/uraoz" },
     ]
 
   [params.homeInfoParams]
@@ -69,7 +69,19 @@ buildExpired = false
 
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/uraot"
+    url = "https://github.com/uraoz"
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/uraoz"
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/xia0sen/"
+
+    [[params.socialIcons]]
+    name = "discord"
+    url = "https://discordapp.com/users/370728847206907909"
 
 [menu]
   [[menu.main]]
