@@ -2,16 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uraot.github.io/blog/about/</loc>
-  </url><url>
     <loc>https://uraot.github.io/blog/categories/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
+  </url><url>
+    <loc>https://uraot.github.io/blog/categories/life/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
   </url><url>
     <loc>https://uraot.github.io/blog/life/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
   </url><url>
     <loc>https://uraot.github.io/blog/tags/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
   </url><url>
-    <loc>https://uraot.github.io/blog/tech/</loc>
+    <loc>https://uraot.github.io/blog/life/2025/diary-11-24/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
+  </url><url>
+    <loc>https://uraot.github.io/blog/tags/%E4%B8%80%E4%BA%BA%E6%9A%AE%E3%82%89%E3%81%97/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
+  </url><url>
+    <loc>https://uraot.github.io/blog/tags/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
   </url><url>
     <loc>https://uraot.github.io/blog/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
+  </url><url>
+    <loc>https://uraot.github.io/blog/tags/%E9%A3%9F%E4%BA%8B/</loc>
+    <lastmod>2025-11-24T01:28:00+09:00</lastmod>
+  </url><url>
+    <loc>https://uraot.github.io/blog/about/</loc>
+  </url><url>
+    <loc>https://uraot.github.io/blog/tech/</loc>
   </url>
 </urlset>
