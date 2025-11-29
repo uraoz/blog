@@ -1,5 +1,5 @@
 ---
-title: "Diary 11 27"
+title: "ガバオーラカメラ"
 date: 2025-11-27T16:02:28+09:00
 draft: false
 tags: ["リポジトリあり"]
