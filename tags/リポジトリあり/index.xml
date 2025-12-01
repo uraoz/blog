@@ -6,8 +6,32 @@
     <description>Recent content in リポジトリあり on 閑話</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Nov 2025 16:02:28 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 16:50:02 +0900</lastBuildDate>
     <atom:link href="https://uraoz.github.io/blog/tags/%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%82%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>就活の面接でズルをしよう!</title>
+      <link>https://uraoz.github.io/blog/tech/2025/diary-12-01/</link>
+      <pubDate>Mon, 01 Dec 2025 16:50:02 +0900</pubDate>
+      <guid>https://uraoz.github.io/blog/tech/2025/diary-12-01/</guid>
+      <description>&lt;h2 id=&#34;ムカつきますわ&#34;&gt;ムカつきますわ～&lt;/h2&gt;
+&lt;p&gt;世の中にはWebテスト（企業が用意している足切りライン）の回答集が、有料・無料で出回っているらしい。正直言って唾棄すべきことだと思う。が、「人生がかかっているのに、その程度のコストも努力も惜しむほうがおかしい」みたいな物言いをしている人が居た（しかもそいつは就活エージェントのバイトだった）。&lt;/p&gt;
+&lt;p&gt;やってやろうじゃねえかよ～&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/uraoz/interview-prompter&#34;&gt;リポジトリ&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;何をしたいか&#34;&gt;何をしたいか&lt;/h2&gt;
+&lt;p&gt;諸氏におかれましては、Webテストの足切りなんかより性格診断のほうが危うい人も多いと思う。しかし、もっとも困るのは面接であろう。当然私もそうなので、リアルタイムで音声認識を行い、応答の早いLLMのAPIに投げて適切なアドバイスや誘導を行うプロンプターを用意してみた。&lt;/p&gt;
+&lt;p&gt;幸い、ややでかめのVRAMを積んでいるので、STTには豪華にwhisper-v3-turboを利用。silero VADで区間分割して、gemini-2.5-flash-liteでアドバイスを生成するという構成にした。&lt;/p&gt;
+&lt;p&gt;API key、ガクチカやES、企業情報などのシステムプロンプト、VADの設定などは&lt;code&gt;.env&lt;/code&gt;から取り込んでいる。各々の環境に合わせて調整してほしい。&lt;/p&gt;
+&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;音声入力デバイスとステレオミキサーを指定し、それぞれのオーディオデバイスから入力を受け取っているが、まだVRAMに余裕があるので並列化してもいいかも&lt;/li&gt;
+&lt;li&gt;日本語特有かもしれないが、無音区間を投げるとYouTuberのせいで「ご視聴ありがとうございました」と大量に吐き出されてしまう。閾値の設定と完全一致で無視するパワー系ソリューションを取っているが、どうにかしたい。たまに「チャンネル登録お願いします」みたいな亜種が湧くこともある&lt;/li&gt;
+&lt;li&gt;Opusとかで予め書いた理想の人物像を定義したシステムプロンプトを入れておいて、もう少し個性を持たせた発言をさせたい。ただ、コンテキスト長に対してどの程度レスポンス速度が落ちるかわからないので要検証&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;なお、無料API枠&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;スクショ&#34;&gt;スクショ&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;溢れ出るClaude感&#34; loading=&#34;lazy&#34; src=&#34;https://uraoz.github.io/blog/images/tech/2025/12-01-a.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ガバオーラカメラ</title>
       <link>https://uraoz.github.io/blog/tech/2025/diary-11-27/</link>
