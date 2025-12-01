@@ -6,8 +6,23 @@
     <description>Recent content in 就活 on 閑話</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Nov 2025 23:57:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 16:50:02 +0900</lastBuildDate>
     <atom:link href="https://uraoz.github.io/blog/tags/%E5%B0%B1%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>就活の面接でズルをしよう!</title>
+      <link>https://uraoz.github.io/blog/tech/2025/diary-12-01/</link>
+      <pubDate>Mon, 01 Dec 2025 16:50:02 +0900</pubDate>
+      <guid>https://uraoz.github.io/blog/tech/2025/diary-12-01/</guid>
+      <description>&lt;h2 id=&#34;ムカつくこと&#34;&gt;ムカつくこと&lt;/h2&gt;
+&lt;p&gt;世の中にはwebテスト(企業が用意してる足切りライン)の回答集だったりが有料無料で出回っているらしい。正直言って唾棄すべきことだと思うが、人生がかかっているのにその程度のコストも努力も吐き出せないほうがおかしいみたいな物言いをしている人が居た(しかもそいつは就活エージェントのバイトだった)&lt;/p&gt;
+&lt;p&gt;やってやろうじゃねえかよ～&lt;/p&gt;
+&lt;h2 id=&#34;何をしたいか&#34;&gt;何をしたいか&lt;/h2&gt;
+&lt;p&gt;諸氏におかれましてはwebテストの足切りなんかより性格診断のほうが危うい人も多いと思いますが、もっとも困るのは面接であろう。当然私もそうなのでリアルタイムで音声認識を行い、応答の早いLLMのAPIになげて適切なアドバイスや誘導を行うプロンプターを用意してみた。&lt;/p&gt;
+&lt;p&gt;幸い、ややでかめのVRAMを積んでいるのでSTTにはwhisper-large-v3を利用し、silero VADで区間分割して、gemini-2.5-flash-liteでアドバイスを生成という構成にした。いまのところ、ガクチカやES、企業情報などのシスプロはハードコードしてある。&lt;/p&gt;
+&lt;p&gt;音声入力デバイスとステレオミキサーを指定し、それぞれのオーディオデバイスの入力から受け取っているがまだVRAMに余裕があるので並列にしてもいいかも&lt;/p&gt;
+&lt;h2 id=&#34;スクショ&#34;&gt;スクショ&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;溢れ出るClaude感&#34; loading=&#34;lazy&#34; src=&#34;https://uraoz.github.io/blog/images/tech/2025/12-01-a.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>国家総合職 二次試験 2日目</title>
       <link>https://uraoz.github.io/blog/life/2025/diary-11-30/</link>
